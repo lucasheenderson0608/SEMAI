@@ -1,0 +1,25 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>ADEA – Associação de Defesa e Educação Ambiental</name><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[20,2]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</value></Data></ExtendedData>
+  <Point><coordinates>-48.60472222222223,-26.09416666666667</coordinates></Point></Placemark>
+<Placemark>
+<name>Escola Municipal Alberto Speck</name><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[20,2]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</value></Data></ExtendedData>
+  <Point><coordinates>-48.69194444444444,-26.14611111111111</coordinates></Point></Placemark>
+<Placemark>
+<name>Escola Municipal Zózimo Neres do Rosário</name><ExtendedData>
+  <Data name="styleUrl"><value>#m_ylw-pushpin</value></Data>
+  <Data name="icon-scale"><value>1.1</value></Data>
+  <Data name="icon-offset"><value>[20,2]</value></Data>
+  <Data name="icon-offset-units"><value>["pixels","pixels"]</value></Data>
+  <Data name="icon"><value>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</value></Data></ExtendedData>
+  <Point><coordinates>-48.59972222222223,-26.17972222222222</coordinates></Point></Placemark></Document></kml>
